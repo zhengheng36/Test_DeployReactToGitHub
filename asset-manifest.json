@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Test_DeployReactToGitHub/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Test_DeployReactToGitHub/static/js/main.7e700cae.chunk.js",
+    "main.js.map": "/Test_DeployReactToGitHub/static/js/main.7e700cae.chunk.js.map",
+    "runtime-main.js": "/Test_DeployReactToGitHub/static/js/runtime-main.32111418.js",
+    "runtime-main.js.map": "/Test_DeployReactToGitHub/static/js/runtime-main.32111418.js.map",
+    "static/js/2.3c16eec8.chunk.js": "/Test_DeployReactToGitHub/static/js/2.3c16eec8.chunk.js",
+    "static/js/2.3c16eec8.chunk.js.map": "/Test_DeployReactToGitHub/static/js/2.3c16eec8.chunk.js.map",
+    "index.html": "/Test_DeployReactToGitHub/index.html",
+    "precache-manifest.90d8bee84e2a872a33907b3a0bc49234.js": "/Test_DeployReactToGitHub/precache-manifest.90d8bee84e2a872a33907b3a0bc49234.js",
+    "service-worker.js": "/Test_DeployReactToGitHub/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Test_DeployReactToGitHub/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3c16eec8.chunk.js.LICENSE.txt": "/Test_DeployReactToGitHub/static/js/2.3c16eec8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Test_DeployReactToGitHub/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32111418.js",
+    "static/js/2.3c16eec8.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.7e700cae.chunk.js"
+  ]
+}
